@@ -1,0 +1,39 @@
+Question 1
+What does HTML stand for?
+-Hyper Text Markup Language
+
+Question 2
+Explain the difference between HTML elements and HTML attributes. Provide examples of each
+-The element consists of a starting tag and a closing tag (e.g., <p>Hello World</p>) where as the attributes add additional information withing the start tag of the element (e.g., <a href="www.google.com">Hello World</a>)
+
+Question 3 
+What is the purpose of the 'DOCTYPE' declaration in an HTML document? What happens if you omit it?
+- this is an instruction to the browser about the HTML version being used and ensures that the document displays properly. If this has been omitted, the browser may display with a mix of old and new standards.
+
+Question 4
+Describe the difference between inline elements and block-level elements in HTML. Give examples of each
+- inline elements do not start on a new line. (e.g., <span>). Block level starts on a new level (e.g.,<div></div>)
+
+Question 5 
+Explain the significance of the following HTML tags and their usage:
+<head> - this contains
+<div>
+<a>
+<img>
+<ul>, <ol>, <li>
+
+Question 6
+What are semantic HTML elements? Provide examples of semantic elements and explain why they are important for web accessibility and SEO.
+
+Question 7
+What is the purpose of the HTML form elements (<form>) and its associated form controls?
+Provide examples of common form controls
+
+Question 8
+How can you add comments in HTML? Why are comments useful in web development?
+
+Question 9
+What is the HTML5 standard and what are some of the new features introduced in HTML5?
+
+Question 10
+Explain the concept of 'responsive web design' and how HTML contributes to creating responsive websites.
