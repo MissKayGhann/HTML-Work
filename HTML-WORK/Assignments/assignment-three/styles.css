@@ -66,6 +66,18 @@ h1 {
   font-style: italic;
 }
 
+button {
+  display: inline-flex;
+  padding: 8px 16px 8px 24px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 112px;
+  border-radius: 8px;
+  background-color: #426b1f;
+  margin-bottom: 1%;
+  color: white;
+}
+
 .peanut-soup {
   height: 100%;
   width: 40%;
@@ -91,6 +103,39 @@ h1 {
   font-weight: 400;
   line-height: 120%;
   letter-spacing: -1.28px;
+}
+
+.brief-description {
+  display: flex;
+  margin-top: 3%;
+  justify-content: space-between;
+}
+
+.title {
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+  letter-spacing: 0.56px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin-left: 10%;
+  margin-top: 3%;
+  color: #426b1f;
+}
+
+.text {
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  width: 70%;
+  text-align: justify;
+  margin-right: 3%;
 }
 
 #recipes-list {
@@ -234,3 +279,26 @@ footer p {
   margin-bottom: 0;
   font-size: 14px;
 }
+
+button {
+  display: inline-flex;
+  padding: 8px 16px 8px 24px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 112px;
+  border-radius: 8px;
+  background-color: #426b1f;
+  margin-bottom: 1%;
+  color: white;
+}
+
+/* @keyframes slideInLeft {
+    from {
+      transform: translateX(-300px);
+    }
+    to {
+      transform: translateX(300px);
+    }
+  } 
+  
+ */
