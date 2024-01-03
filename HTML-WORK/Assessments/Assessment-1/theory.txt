@@ -1,3 +1,5 @@
+Theory Answers
+
 HTML Basics
 1. The purpose of HTML is to provide a way to define the structure of the elements on a webpage
 2. The <div> element is a block level element used to create a section. The <span> element is an inline element used to
